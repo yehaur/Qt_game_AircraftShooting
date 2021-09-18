@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>qt-bullet.mp3</file>
+        <file>qt-game_background.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>qt-image-bullet.jpeg</file>
+        <file>qt-image-enemy.png</file>
+        <file>qt-image-player.jpeg</file>
+        <file>qt-image-bg.jpeg</file>
+    </qresource>
+</RCC>
